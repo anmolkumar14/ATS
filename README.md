@@ -1,21 +1,19 @@
-# ATS
+# Zero-to-SRE on Azure
 
-This project contains algorithms and data structures explained with an emphasis on practical applications and efficiency.
+## Introduction
 
-## Overview
+This guide aims to provide a comprehensive overview of Site Reliability Engineering (SRE) practices in the context of Azure. It covers various aspects to help you understand and implement SRE principles effectively.
 
-This section provides an overview of various algorithms. Each explanation aims to clarify the methodology behind problem-solving techniques.
+## Anmol Explanation
 
-## Algorithms
+In this section, we will delve into the core concepts of SRE with examples and detailed explanations to ensure clarity.
 
-### Sorting Algorithms
+## Key Concepts
 
-1. **Bubble Sort**: A simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
-2. **Quick Sort**: An efficient sorting algorithm using divide-and-conquer principles.
-3. **Merge Sort**: A highly efficient algorithm that divides the input array into two halves and combines them in a sorted manner.
+1. **Availability**: Understanding how to measure and improve the availability of your services.
+2. **Monitoring**: The importance of monitoring your services to ensure they meet reliability standards.
+3. **Incident Management**: Best practices for responding to incidents and minimizing downtime.
 
-### Anmol Explanation
+## Conclusion
 
-The following section aims to clarify complex algorithms with practical examples.
-
-Feel free to explore different sections and understand the concepts with examples illustrating the "Anmol Explanation" of each.
+By following this guide, you can enhance your understanding of SRE principles and apply them to your Azure environments. We hope this will serve as a valuable resource on your journey to becoming a proficient Site Reliability Engineer.
