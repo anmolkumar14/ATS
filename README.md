@@ -1,7 +1,7 @@
 # Zero-to-SRE on Azure (8-Week Training Program)
 
 **Goal:**
-Transform a beginner into a **Junior Cloud Engineer / Entry-Level SRE** capable of building and maintaining a reliable cloud platform.
+Transform a beginner into a **Junior Cloud Engineer** capable of building and maintaining a reliable cloud platform.
 
 **Platform Scenario:**
 A **Digital Advisory Platform** where users access financial insights, investments, and portfolio analytics.
@@ -489,7 +489,7 @@ After completing the program, the learner can:
 * Monitor systems
 * Handle production incidents
 
-This makes them ready for a **Junior Cloud Engineer / Entry-Level SRE role**.
+This makes them ready for a **Junior Cloud Engineer **.
 
 ---
 
